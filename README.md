@@ -1,5 +1,5 @@
 # FakeVoiceOption
-[Vencord] Fake muting and deafening
+[Vencord] Fake camera , muting and deafening
 
 Tutorial on how to install 3rd party plugins on vencord: https://youtu.be/XmVNRKrphlw&ab
 
